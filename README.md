@@ -7,7 +7,7 @@
 
 
 <p align="center">
- <a target="_blank" href=https://github.com/blueedgetechno>
+ <a target="_blank" href=[https://github.com/rolexwatch123]
   <img src=https://img.shields.io/github/followers/blueedgetechno?label=follow%20me&style=social />
   &nbsp;
 </a>
